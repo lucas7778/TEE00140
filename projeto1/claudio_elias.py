@@ -1,5 +1,5 @@
 #Projeto 1
-#Aluno: Claudio Coelho da Silva Junior (120.038.029)
+#Alunos: Claudio Coelho da Silva Junior (120.038.029); Elias da Silva Dutra (220.038.092)
 #Linguagens de Programação para Engenharia
 #TEE00140
 
