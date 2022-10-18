@@ -29,7 +29,6 @@ cont1 = 0  # contador
 cont2 = 0  # contador
 cont3 = 0  # contador
 vetor1 = ['Mouse', 'Teclado', 'Headset', 'Monitor']  # vetor auxiliar com itens pre-selecionados
-vetor2 = []  # vetor auxiliar
 vetor3 = []  # vetor auxiliar
 vetor4 = []  # vetor auxiliar
 print(f'\nBem vindo sr. usuário. O que deseja realizar?'
@@ -106,7 +105,7 @@ elif a == 2:
                 print('\n\***********************************************')
                 print('Itens selecionados para uma possível compra:')
                 print('***********************************************')
-                for i in range(0, len(vtor3)):
+                for i in range(0, len(vetor3)):
                     print('► ', vetor3[i], '; Quantidade depois da escolha:', vetor4[i])
                 print('***********************************************')
                 print('\nCompra efetuada! Obrigada \U0001F600.')
